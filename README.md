@@ -2,6 +2,24 @@
 
 > Pseudorandom number generator using [xorshift128+](http://xorshift.di.unimi.it/)
 
+## Certified RNG using javascript (for gambling related games)
+
+This module was written by Andreas Madsen & Emil Bay and modified by Brendan Nash in
+order to be certified under a Curacao Gambling License.
+
+The module is free to use in line with the original authors intentions.
+
+## Gambling License & RNG Certification
+Should your organisation require an RNG certificate in order to obtain a gambling license, 
+we can provide you with a certificate for the module.
+
+You can place your order here: https://gtec.curacaowebhosting.com/cart.php?gid=9
+
+email: brendan [at] gamblingTec.com
+WhatsApp: +44 (0)7498 105896
+SA Mobile: +27 (0)60-457-8084
+skype: brendanjnash
+
 ## Installation
 
 ```bash
