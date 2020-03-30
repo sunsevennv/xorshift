@@ -1,0 +1,23 @@
+{
+  "name": "sunsevennv/xorshift",
+  "description": "Random number generator (RNG) by Andreas Madsen & Emil Bay",
+  "license": "MIT",
+  "homepage": "https://www.gamblingtec.com",
+  "config": {
+    "sort-packages": true
+  },
+  "authors": [
+    {
+      "name": "Brendan Nash",
+      "email": "brendan@gamblingtec.com"
+    }
+  ],
+  "keywords": [
+    "rng",
+    "random number generator",
+    "gambling rng",
+    "gamblingtec",
+    "xorshift",
+    "unity"
+  ],
+}
